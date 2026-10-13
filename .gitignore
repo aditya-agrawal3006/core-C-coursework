@@ -1,0 +1,18 @@
+# Compiled C / assembly outputs
+*.o
+*.a
+*.so
+*.out
+*.exe
+*.gch
+*.core
+core
+vgcore.*
+# IDE files and local build state
+.vscode/
+.idea/
+.DS_Store
+*.tmp
+# Original coursework submission artifacts
+gradescope-submit
+*.zip
